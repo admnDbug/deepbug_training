@@ -10,7 +10,7 @@ Por motivos de optimización, rendimiento del control de versiones y respeto a l
 
 En su lugar, el dataset completo ha sido empaquetado y alojado en un servidor de almacenamiento externo.
 
-* 🔗 **Enlace de Descarga Oficial:** [Descargar Dataset Completo (Google Drive)](#) *[(Pega aquí tu enlace de Drive)](https://drive.google.com/file/d/1tewjcs1tZxOXECB45bGiZZXCfRKAMNUY/view?usp=sharing)*
+* 🔗 **Enlace de Descarga Oficial:** [Descargar Dataset Completo (Google Drive)](#) *(https://drive.google.com/file/d/1tewjcs1tZxOXECB45bGiZZXCfRKAMNUY/view?usp=sharing)*
 * 📦 **Formato del archivo:** Archivo Comprimido (`.zip`)
 * 🖼️ **Contenido:** Imágenes reales clasificadas por familias taxonómicas para el biomonitoreo de la calidad del agua.
 
